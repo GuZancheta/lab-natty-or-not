@@ -1,4 +1,4 @@
-# IA para estruturas genômicas 3D ;)
+# IA para estruturas genômicas 3D
 
 ## 📒 Descrição
 Este projeto tem como objetivo a análise tridimencional de genomas.
